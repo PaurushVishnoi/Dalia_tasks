@@ -25,5 +25,5 @@ Write an automated acceptance test, so it will cover opening a survey and the fl
 The automation of the tsak has been done using <b>JavaScript</b> with <b>Puppeteer</b> and created as <b>Behaviour Driven Development(BDD)</b> using <b>Cucumber</b> framework along with Gherkin Syntax.
 
 1. All the test steps along with the scenarios have been written in [login.feature](features/login.feature) file 
-2. Step definitions have been created in [steps.js](support/steps.js) file.
-3. Performing operations on web elements have been defined in [world.js](support/world.js) file.
+2. Step definitions have been created in [steps.js](features/support/steps.js) file.
+3. Performing operations on web elements have been defined in [world.js](features/support/world.js) file.
