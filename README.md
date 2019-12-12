@@ -27,3 +27,4 @@ The automation of the tsak has been done using <b>JavaScript</b> with <b>Puppete
 1. All the test steps along with the scenarios have been written in [login.feature](features/login.feature) file 
 2. Step definitions have been created in [steps.js](features/support/steps.js) file.
 3. Performing operations on web elements have been defined in [world.js](features/support/world.js) file.
+4. All the page object model files have been stored in the [page-object](page-objects) folder
