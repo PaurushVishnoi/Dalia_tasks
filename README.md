@@ -1,18 +1,12 @@
 ﻿# Dalia_tasks
 
-This Project contains the test cases of Douglas Login web page. Fllowing are the scenarios which have been covered in the project: -
+This Project contains the solutions to QA challenge - Dalia Research. Fllowing are the scenarios which have been covered in the project: -
 
-1. As a user with correct credentials I would like to be able to login to
-the webshop
-2. As a user I would like to receive an error message, if I enter wrong
-credentials.
-3. As a user, I would like to be able to reset my password if I forget my
-credentials.
+### Task 1 - SQL ###
+Please write an SQL query to extract the data to be checked from the database.
 
-For these scenarios, 7 test cases have been prepared which are provided in the [Douglas_testcases.xlsx](Douglas_testcases.xlsx). The test case for sheet 2 - "Login Failure when no credentials provided" has already been covered with the scenario in the **Test Case 2** and **Test Case 4**
-
-### Test Case 1 ###
-Showing the successful login of the user
+#### Solution ####
+The query has been made to retrieve the results for a particular survey id. The solution explanation can be seen in [SQL_Tasks.docx](SQL_Tasks.docx)
  
 ### Test Case 2 ###
 Showing the Login Failure due to no Email
