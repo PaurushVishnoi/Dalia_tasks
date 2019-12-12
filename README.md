@@ -10,7 +10,8 @@ The query has been made to retrieve the results for a particular survey id. The 
 
 
 ### Task 2 - Exploratory Testing ###
-Run exploratory testing on https://yunosurveys.com 
+Run exploratory testing on https://yunosurveys.com <br>
+<br>
 
 #### Solution ####
 There has been some exploratory testing done on the website. Some bugs have been reported. It may be possible that the issues somehow might be meeting the business requirements but from the point of functionality something was obscure thats why I have reported them. Please refer [Scenario2_Dalia_bug_reports.xlsx](Scenario2_Dalia_bug_reports.xlsx) for checking the list of reported bugs
