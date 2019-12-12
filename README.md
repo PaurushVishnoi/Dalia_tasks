@@ -28,3 +28,13 @@ The automation of the tsak has been done using <b>JavaScript</b> with <b>Puppete
 2. Step definitions have been created in [steps.js](features/support/steps.js) file.
 3. Performing operations on web elements have been defined in [world.js](features/support/world.js) file.
 4. All the page object model files have been stored in the [page-object](page-objects) folder
+
+Prerequisites for the solution to run :-
+1. Download puppeteer for latest JavaScript version
+1. Cucumber framework for puppeteer should be installed
+
+For executing the scenarios, open the terminal for the folder location where repository is cloned and use command "npm run test" to execute the test cases.
+
+<br></br>
+
+Note : Please note that there is "node_modules" folder present in the repository as the size of the folder was greater than 100mb. Hence, I have attached with seperately in the grrenhuse link. Just copy the node_modules folder and paste in the folder where all these repository files are cloned.
