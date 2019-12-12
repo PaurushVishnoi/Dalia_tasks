@@ -22,8 +22,6 @@ There has been some exploratory testing done on the website. Some bugs have been
 Write an automated acceptance test, so it will cover opening a survey and the flow of answering questions.
 
 #### Solution ####
- 
+The automation of the tsak has been done using JavaScript with Puppeteer and created as Behaviour Driven Development(BDD) using Cucumber framework along with Gherkin Syntax.
 
-
-## Execution ##
 Execute [TestCase.java](src/TestCase.java) file to check the passing status of the test cases. [DouglasLogin.java](src/DouglasLogin.java) contains all the function developed on the basis of test case scenarios.
