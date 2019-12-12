@@ -33,7 +33,7 @@ The automation of the tsak has been done using <b>JavaScript</b> with <b>Puppete
 1. Download puppeteer for latest JavaScript version
 1. Cucumber framework for puppeteer should be installed
 
-For executing the scenarios, open the terminal for the folder location where repository is cloned and use command <b>npm run test</b> to execute the test cases.
+For executing the scenarios, open the terminal for the folder location where repository is cloned and use command <b>npm run test</b> to execute the test cases. Some bugs have been reported meanwhile the testing of these survey pages which can be found in [Scenario3_Dalia_bug_reports.xlsx](Scenario3_Dalia_bug_reports.xlsx)
 
 <br></br>
 
