@@ -37,4 +37,4 @@ For executing the scenarios, open the terminal for the folder location where rep
 
 <br></br>
 
-Note : Please note that there is "node_modules" folder present in the repository as the size of the folder was greater than 100mb. Hence, I have attached with seperately in the grrenhuse link. Just copy the node_modules folder and paste in the folder where all these repository files are cloned.
+Note : Please note that there is "node_modules" folder present in the repository as the size of the folder was greater than 100mb. Hence, I have attached with seperately in the greenhouse link. Just copy the node_modules folder and paste in the folder where all these repository files are cloned.
