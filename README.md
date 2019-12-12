@@ -9,7 +9,8 @@ Please write an SQL query to extract the data to be checked from the database.
 The query has been made to retrieve the results for a particular survey id. The solution explanation can be seen in [SQL_Tasks.docx](SQL_Tasks.docx)
 
 <br>
-<br>
+<br></br>
+
 ### Task 2 - Exploratory Testing ###
 Run exploratory testing on https://yunosurveys.com 
 
