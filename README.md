@@ -16,21 +16,13 @@ Run exploratory testing on https://yunosurveys.com
 #### Solution ####
 There has been some exploratory testing done on the website. Some bugs have been reported. It may be possible that the issues somehow might be meeting the business requirements but from the point of functionality something was obscure thats why I have reported them. Please refer [Scenario2_Dalia_bug_reports.xlsx](Scenario2_Dalia_bug_reports.xlsx) for checking the list of reported bugs
 
+<br></br>
 
-### Test Case 3 ###
-Showing the Login Failure due to incorrect Email
+### Task 3 - Automation of survey pages ###
+Write an automated acceptance test, so it will cover opening a survey and the flow of answering questions.
+
+#### Solution ####
  
-### Test Case 4 ###
-Showing the Login Failure due to no password
- 
-### Test Case 5 ### 
-Showing the Login Failure due to incorrect password
- 
-### Test Case 6 ###
-Showing the resetting of the password by clicking 'Forgot Password' link
-> Please note : 
-The CAPTCHA feature is not really working and behaving strange because of which CAPTCHA sometimes appears ans sometimes it doesnot. 
-Hence,**there is a manual process of entering CAPTCHA and clicking on 'E-MAIL ABSENDEN' button**
 
 
 ## Execution ##
