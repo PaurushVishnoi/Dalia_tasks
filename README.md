@@ -24,4 +24,6 @@ Write an automated acceptance test, so it will cover opening a survey and the fl
 #### Solution ####
 The automation of the tsak has been done using <b>JavaScript</b> with <b>Puppeteer</b> and created as <b>Behaviour Driven Development(BDD)</b> using <b>Cucumber</b> framework along with Gherkin Syntax.
 
-Execute [TestCase.java](src/TestCase.java) file to check the passing status of the test cases. [DouglasLogin.java](src/DouglasLogin.java) contains all the function developed on the basis of test case scenarios.
+1. All the test steps along with the scenarios have been written in [login.feature](features/login.feature) file 
+2. Step definitions have been created in [steps.js](support/steps.js) file.
+3. Performing operations on web elements have been defined in [world.js](support/world.js) file.
