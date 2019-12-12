@@ -1,0 +1,21 @@
+{
+    "Strongly agree": {
+      "value": "div:nth-child(1) > label"
+    },
+
+    "Somewhat agree": {
+      "value": "div:nth-child(2) > label"
+    },
+
+    "Radio": {
+      "value": "div:nth-child(3) > label"
+    },
+
+    "Twitter": {
+      "value": "div:nth-child(4) > label"
+    },
+
+    "Other": {
+        "value": "div:nth-child(5) > label"
+    }
+}

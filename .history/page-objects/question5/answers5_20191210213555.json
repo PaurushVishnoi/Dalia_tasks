@@ -1,0 +1,9 @@
+{
+    "Rural area": {
+      "value": "div:nth-child(1) > label"
+    },
+
+    "City": {
+      "value": "div:nth-child(2) > label"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Television": {
+      "value": "div:nth-child(1) > label"
+    },
+
+    "Newspaper": {
+      "value": "div:nth-child(2) > label"
+    },
+
+    "Twitter": {
+      "value": "div:nth-child(3) > label"
+    },
+
+    "Blogs": {
+      "value": "div:nth-child(4) > label"
+    },
+
+    "LinkedIn": {
+        "value": "div:nth-child(5) > label"
+    },
+
+    "YouTube": {
+        "value": "div:nth-child(6) > label"
+    }, 
+
+    "None of th above": {
+        "value": "div:nth-child(7) > label"
+    }
+}

@@ -1,0 +1,357 @@
+[
+  {
+    "description": "   As a user\n   I can perform operations on Yuno Survey Link",
+    "keyword": "Feature",
+    "name": "Dalia Research",
+    "line": 1,
+    "id": "dalia-research",
+    "tags": [],
+    "uri": "features\\login.feature",
+    "elements": [
+      {
+        "id": "dalia-research;user-can-login-to-application",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "User can login to application",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "features\\support\\steps.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 785000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I open Yuno landing page",
+            "match": {
+              "location": "features\\support\\steps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2019000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I select option \"I understand that if I rush or answer dishonestly I will not get rewarded\"",
+            "match": {
+              "location": "features\\support\\steps.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 66000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 41000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "I select radio button \"1-3 hours\" for question 1",
+            "match": {
+              "location": "features\\support\\steps.js:36"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 774000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "I select radio button \"YouTube\" for question 2",
+            "match": {
+              "location": "features\\support\\steps.js:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 532000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "I select radio button \"Facebook\" for question 2",
+            "match": {
+              "location": "features\\support\\steps.js:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 530000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "I select radio button \"Twitter\" for question 2",
+            "match": {
+              "location": "features\\support\\steps.js:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 534000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "I select radio button \"Newspaper\" for question 3",
+            "match": {
+              "location": "features\\support\\steps.js:44"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 539000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 42000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "I enter \"Stephen Curry\" as person name",
+            "match": {
+              "location": "features\\support\\steps.js:49"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 645000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 41000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "I select radio button \"Strongly disagree\" for question 4",
+            "match": {
+              "location": "features\\support\\steps.js:53"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 781000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "I enter \"7\" as sum",
+            "match": {
+              "location": "features\\support\\steps.js:58"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 520000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "I select radio button \"Rural area\" for question 5",
+            "match": {
+              "location": "features\\support\\steps.js:62"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 528000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 23000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 26,
+            "name": "I select radio button \"Forrest Gump\" for question 6",
+            "match": {
+              "location": "features\\support\\steps.js:66"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 536000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 27000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 28,
+            "name": "I select radio button \"Sound\" for last question",
+            "match": {
+              "location": "features\\support\\steps.js:70"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 547000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "I click \"Next\" button",
+            "match": {
+              "location": "features\\support\\steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "I see All done!",
+            "match": {
+              "location": "features\\support\\steps.js:75"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 776000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "features\\support\\steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 555000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

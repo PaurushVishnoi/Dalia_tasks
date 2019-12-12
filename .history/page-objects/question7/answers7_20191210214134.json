@@ -1,0 +1,21 @@
+{
+    "Sound": {
+      "value": "div:nth-child(1) > label"
+    },
+
+    "The actors": {
+      "value": "div:nth-child(2) > label"
+    },
+
+    "Cinematography": {
+      "value": "div:nth-child(3) > label"
+    },
+
+    "Narrative/story": {
+        "value": "div:nth-child(3) > label"
+    },
+
+    "Editing": {
+      "value": "div:nth-child(4) > label"
+    }
+}

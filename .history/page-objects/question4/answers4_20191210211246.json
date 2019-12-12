@@ -1,0 +1,21 @@
+{
+    "Strongly agree": {
+      "value": "div:nth-child(1) > label"
+    },
+
+    "Somewhat agree": {
+      "value": "div:nth-child(2) > label"
+    },
+
+    "Neither agree nor disagree": {
+      "value": "div:nth-child(3) > label"
+    },
+
+    "Somewhat disagree": {
+      "value": "div:nth-child(4) > label"
+    },
+
+    "Strongly disagree": {
+        "value": "div:nth-child(5) > label"
+    }
+}

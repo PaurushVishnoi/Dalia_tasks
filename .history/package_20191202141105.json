@@ -1,0 +1,23 @@
+{
+  "name": "pptcucumber",
+  "version": "1.0.0",
+  "description": "puppeteer with cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "cucumber",
+    "gherkin",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.5",
+    "cucumber-html-reporter": "^5.0.2",
+    "puppeteer": "^2.0.0"
+  }
+}
